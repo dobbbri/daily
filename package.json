@@ -1,0 +1,56 @@
+{
+  "name": "daily",
+  "displayName": "Daily Themes",
+  "description": "6 beautiful dark themes to wear day and night",
+  "version": "0.0.1",
+  "publisher": "sldobri",
+  "license": "Apache-2.0",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/sldobri/bunker/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sldobri/bunker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sldobri/bunker/issues"
+  },
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula.json"
+      },
+      {
+        "label": "HalfLife",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halfLife.json"
+      },
+      {
+        "label": "Peacocks",
+        "uiTheme": "vs-dark",
+        "path": "./themes/peacocks.json"
+      },
+      {
+        "label": "Rainbow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rainbow.json"
+      },
+      {
+        "label": "Oceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic.json"
+      }
+    ]
+  }
+}
