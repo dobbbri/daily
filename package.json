@@ -1,7 +1,7 @@
 {
   "name": "daily",
-  "displayName": "Daily Themes",
-  "description": "6 beautiful dark themes to wear day and night",
+  "displayName": "Darcula and Oceanic",
+  "description": "Darcula inspired by IntelliJ and Oceanic next",
   "version": "0.0.1",
   "publisher": "sldobri",
   "license": "Apache-2.0",
@@ -30,21 +30,6 @@
         "label": "Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
-      },
-      {
-        "label": "HalfLife",
-        "uiTheme": "vs-dark",
-        "path": "./themes/halfLife.json"
-      },
-      {
-        "label": "Peacocks",
-        "uiTheme": "vs-dark",
-        "path": "./themes/peacocks.json"
-      },
-      {
-        "label": "Rainbow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rainbow.json"
       },
       {
         "label": "Oceanic",

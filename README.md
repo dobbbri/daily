@@ -1,11 +1,9 @@
-# Daily Themes
-## 6 beautiful dark themes
+# Darcula inspired by IntelliJ and Oceanic next
+## 2 beautiful dark themes
 
  - Darcula
- - Halflife
  - Oceanic
- - Peacocks
- - Rainbow
+
 
 Screenshots coming soon
 
