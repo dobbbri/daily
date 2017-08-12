@@ -1,8 +1,8 @@
 {
   "name": "daily",
-  "displayName": "Darcula and Oceanic",
-  "description": "Darcula inspired by IntelliJ and Oceanic next",
-  "version": "1.0.1",
+  "displayName": "Darcula Oceanic One",
+  "description": "3 Famous themes whith dark bg",
+  "version": "1.0.2",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -27,14 +27,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Darcula",
+        "label": "Famous Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       },
       {
-        "label": "Oceanic",
+        "label": "Famous Oceanic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
+      },
+      {
+        "label": "Famous One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one.json"
       }
     ]
   }

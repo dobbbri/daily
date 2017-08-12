@@ -1,8 +1,9 @@
-# Darcula inspired by IntelliJ and Oceanic next
-## 2 beautiful dark themes
+# Darcula - Oceanic - One
+## 3 Famous and beautiful dark themes
 
- - Darcula
- - Oceanic
+ - Darcula inspired by IntelliJ
+ - Oceanic Next
+ - One Dark
 
 
 Screenshots coming soon
