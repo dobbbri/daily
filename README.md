@@ -1,7 +1,8 @@
-# Darcula - Oceanic - One
-## 3 Famous and beautiful dark themes
+# Fantastic Four
+## Beautiful dark themes with superpowers
 
- - Darcula inspired by IntelliJ
+ - Darcula
+ - Material
  - Oceanic Next
  - One Dark
 

@@ -1,8 +1,8 @@
 {
   "name": "daily",
-  "displayName": "Darcula Oceanic One",
-  "description": "3 Famous themes whith dark bg",
-  "version": "1.0.2",
+  "displayName": "Fantastic Four Themes",
+  "description": "Beautiful dark themes with superpowers",
+  "version": "4.0.0",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -27,20 +27,30 @@
   "contributes": {
     "themes": [
       {
-        "label": "Famous Darcula",
+        "label": "F4 Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       },
       {
-        "label": "Famous Oceanic",
+        "label": "F4 Material",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material.json"
+      },
+      {
+        "label": "F4 Oceanic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "Famous One Dark",
+        "label": "F4 One Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "33474ff6-baf7-461f-8275-a44cfd27d13a",
+    "publisherId": "688471b5-3365-4cd5-8597-783c039d84e3",
+    "publisherDisplayName": "Sergio Luiz Dobri"
   }
 }
