@@ -202,7 +202,7 @@
     {
       "scope": "markup.deleted",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -226,7 +226,7 @@
     {
       "scope": "markup.inline.raw",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -251,7 +251,7 @@
     {
       "scope": "meta.preprocessor.string",
       "settings": {
-        "foreground": "#ce9178"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -578,7 +578,7 @@
         "support.constant.color"
       ],
       "settings": {
-        "foreground": "#CE9178"
+        "foreground": "#CC7832"
       }
     },
     {
