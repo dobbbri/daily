@@ -401,6 +401,18 @@
       }
     },
     {
+      "scope": [
+        "punctuation.separator.key-value",
+        "keyword.operator.assignment",
+        "keyword.operator.comparison",
+        "keyword.operator.logical",
+        "keyword.operator.accessor"
+      ],
+      "settings": {
+        "foreground": "#A9B7C6"
+      }
+    },
+    {
       "scope": "keyword.other.unit",
       "settings": {
         "foreground": "#6A8759"
