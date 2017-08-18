@@ -2,7 +2,7 @@
   "name": "daily",
   "displayName": "Fantastic Four (Darcula, Material, Oceanic and One)",
   "description": "Dark themes with superpowers (Darcula is 99% like WebStorm by Intellij)",
-  "version": "4.0.6",
+  "version": "4.0.7",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -10,13 +10,13 @@
     "color": "#000000",
     "theme": "dark"
   },
-  "homepage": "https://github.com/sldobri/bunker/blob/master/README.md",
+  "homepage": "https://github.com/sldobri/daily/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sldobri/bunker.git"
+    "url": "https://github.com/sldobri/daily.git"
   },
   "bugs": {
-    "url": "https://github.com/sldobri/bunker/issues"
+    "url": "https://github.com/sldobri/daily/issues"
   },
   "engines": {
     "vscode": "^1.15.0"
