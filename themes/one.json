@@ -66,7 +66,13 @@
     "notification.background": "#0b1015",
     "debugToolBar.background": "#0b1015",
     "dropdown.background": "#0b1015",
-    "dropdown.border": "#97a7c8ff"
+    "dropdown.border": "#97a7c8ff",
+    "peekView.border": "#97a7c8ff",
+    "peekViewEditor.background": "#0b1015",
+    "peekViewResult.background": "#0b1015",
+    "peekViewResult.selectionBackground": "#0b1015",
+    "peekViewTitle.background": "#0b1015",
+    "peekViewTitleLabel.foreground": "#FFC66D"
   },
   "tokenColors": [
     {
