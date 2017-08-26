@@ -334,11 +334,18 @@
     },
     {
       "scope": [
+        "keyword.operator.relational.js",
         "support.type.vendored.property-name",
         "support.type.property-name",
         "variable.css",
         "variable.scss",
-        "variable.other.less"
+        "variable.other.less",
+        "entity.other.inherited-class.php",
+        "entity.name.type.class.php",
+        "entity.name.type.namespace.php",
+        "keyword.operator.key.php",
+        "storage.type.php",
+        "support.class.builtin.php"
       ],
       "settings": {
         "foreground": "#A9B7C6"
@@ -348,7 +355,9 @@
       "scope": [
         "variable.other.property",
         "support.variable.property.dom",
-        "entity.other.inherited-class"
+        "entity.other.inherited-class",
+        "variable.other.php",
+        "variable.language.this.php"
       ],
       "settings": {
         "foreground": "#9876AA"
@@ -400,7 +409,8 @@
         "keyword.operator.expression",
         "keyword.operator.cast",
         "keyword.operator.sizeof",
-        "keyword.operator.logical.python"
+        "keyword.operator.logical.python",
+        "keyword.operator.logical.php"
       ],
       "settings": {
         "foreground": "#CC7832"
@@ -412,7 +422,9 @@
         "keyword.operator.assignment",
         "keyword.operator.comparison",
         "keyword.operator.logical",
-        "keyword.operator.accessor"
+        "keyword.operator.accessor",
+        "keyword.operator.class.php",
+        "support.class.exception.php"
       ],
       "settings": {
         "foreground": "#A9B7C6"
