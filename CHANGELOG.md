@@ -1,3 +1,6 @@
+### Version 4.1.6
+- fix shadow and add border top terminal
+
 # Change Log
 All notable changes to the "daily" extension will be documented in this file.
 
