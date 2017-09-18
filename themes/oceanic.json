@@ -2,7 +2,7 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#97a7c8ff",
-    "widget.shadow": "#000000",
+    "widget.shadow": "#00000026",
     "input.background": "#0b1015",
     "input.border": "#FFD300",
     "list.activeSelectionBackground": "#0b1015",
@@ -14,7 +14,7 @@
     "list.focusBackground": "#18222Dff",
     "list.focusForeground": "#FFD300",
     "button.hoverBackground": "#FFD300",
-    "scrollbar.shadow": "#0b1015",
+    "scrollbar.shadow": "#00000026",
     "scrollbarSlider.background": "#18222Dff",
     "scrollbarSlider.hoverBackground": "#22303Eff",
     "editorOverviewRuler.border": "#0b1015",
@@ -51,7 +51,7 @@
     "editorGroupHeader.noTabsBackground": "#0b1015",
     "editorGroup.border": "#0b1015",
     "panel.background": "#0b1015",
-    "panel.border": "#0b1015",
+    "panel.border": "#FFD300",
     "panelTitle.activeForeground": "#FFD300",
     "panelTitle.inactiveForeground": "#97a7c8ff",
     "statusBar.foreground": "#97a7c8ff",
@@ -76,8 +76,7 @@
     "peekViewTitle.background": "#0b1015",
     "peekViewTitleLabel.foreground": "#FFC66D"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "settings": {
         "foreground": "#cdd3deff",
         "background": "#0b1015ff"
