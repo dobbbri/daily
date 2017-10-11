@@ -1,3 +1,6 @@
+### Version 4.1.7
+- add gruvbox theme
+
 ### Version 4.1.6
 - fix shadow and add border top terminal
 
