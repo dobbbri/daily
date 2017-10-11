@@ -1,3 +1,6 @@
+### Version 4.1.8
+- focus color refactory
+
 ### Version 4.1.7
 - add gruvbox theme
 
