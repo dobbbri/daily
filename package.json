@@ -1,7 +1,7 @@
 {
   "name": "daily",
-  "displayName": "Fantastic Four (Darcula, Material, Oceanic and One)",
-  "description": "Dark themes with superpowers (Darcula is 99% like WebStorm and PhpStorm by Intellij)",
+  "displayName": "Fantastic Five (Darcula, Material, Oceanic, One and Gruvbox)",
+  "description": "Dark themes with superpowers",
   "version": "4.1.6",
   "publisher": "sldobri",
   "license": "Apache-2.0",
@@ -27,24 +27,29 @@
   "contributes": {
     "themes": [
       {
-        "label": "F4 - Darcula",
+        "label": "F5 - Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       },
       {
-        "label": "F4 - Material",
+        "label": "F5 - Material",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
       },
       {
-        "label": "F4 - Oceanic",
+        "label": "F5 - Oceanic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "F4 - One Dark",
+        "label": "F5 - One Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one.json"
+      },
+      {
+        "label": "F5 - Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox.json"
       }
     ]
   },

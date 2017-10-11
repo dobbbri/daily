@@ -1,4 +1,4 @@
-# Fantastic Four
+# Fantastic Five
 
 
 ## Beautiful dark themes with superpowers
@@ -17,9 +17,12 @@
 ### One Dark
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OneDark.png)
 
+### Gruvbox
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/gruvbox.png)
 
 
-### Background hacks
+
+### Background hacks, if you like!!!
 
 #### add this your ***User Settings*** (settings.json)
 ```
