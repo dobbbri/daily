@@ -30,7 +30,7 @@
     "editorSuggestWidget.background": "#0b1015",
     "editorSuggestWidget.selectedBackground": "#18222Dff",
     "editorHoverWidget.background": "#0b1015",
-    "editorLineNumber.foreground": "#5C6370",
+    "editorLineNumber.foreground": "#18222Dff",
     "editorBracketMatch.border": "#97a7c8ff",
     "editorGutter.modifiedBackground": "#FFC66D",
     "editorGutter.addedBackground": "#608b4e",
@@ -52,7 +52,7 @@
     "editorGroupHeader.noTabsBackground": "#0b1015",
     "editorGroup.border": "#0b1015",
     "panel.background": "#0b1015",
-    "panel.border": "#FFC66D",
+    "panel.border": "#18222Dff",
     "panelTitle.activeForeground": "#FFC66D",
     "panelTitle.inactiveForeground": "#cccccc",
     "statusBar.foreground": "#97a7c8ff",
@@ -113,21 +113,14 @@
       }
     },
     {
-      "scope": [
-        "comment",
-        "punctuation.definition.comment"
-      ],
+      "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "foreground": "#928374",
         "fontStyle": "italic"
       }
     },
     {
-      "scope": [
-        "constant",
-        "support.constant",
-        "variable.arguments"
-      ],
+      "scope": ["constant", "support.constant", "variable.arguments"],
       "settings": {
         "foreground": "#d3869b"
       }
@@ -151,19 +144,13 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag",
-        "punctuation.tag"
-      ],
+      "scope": ["entity.name.tag", "punctuation.tag"],
       "settings": {
         "foreground": "#8ec07c"
       }
     },
     {
-      "scope": [
-        "invalid",
-        "invalid.illegal"
-      ],
+      "scope": ["invalid", "invalid.illegal"],
       "settings": {
         "foreground": "#cc241d"
       }
@@ -353,10 +340,7 @@
       }
     },
     {
-      "scope": [
-        "variable.this",
-        "support.variable"
-      ],
+      "scope": ["variable.this", "support.variable"],
       "settings": {
         "foreground": "#d3869b"
       }
@@ -440,9 +424,7 @@
       }
     },
     {
-      "scope": [
-        "punctuation"
-      ],
+      "scope": ["punctuation"],
       "settings": {
         "foreground": "#a89984"
       }
@@ -461,21 +443,14 @@
     },
     {
       "name": "URL",
-      "scope": [
-        "*url*",
-        "*link*",
-        "*uri*"
-      ],
+      "scope": ["*url*", "*link*", "*uri*"],
       "settings": {
         "fontStyle": "underline"
       }
     },
     {
       "name": "Python function",
-      "scope": [
-        "meta.function.python",
-        "entity.name.function.python"
-      ],
+      "scope": ["meta.function.python", "entity.name.function.python"],
       "settings": {
         "foreground": "#8ec07c"
       }
@@ -583,10 +558,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.other.import.java",
-        "keyword.other.package.java"
-      ],
+      "scope": ["keyword.other.import.java", "keyword.other.package.java"],
       "settings": {
         "foreground": "#8ec07c"
       }
@@ -696,10 +668,7 @@
       }
     },
     {
-      "scope": [
-        "markup.inline.raw",
-        "markup.fenced_code.block"
-      ],
+      "scope": ["markup.inline.raw", "markup.fenced_code.block"],
       "settings": {
         "foreground": "#8ec07c"
       }
@@ -793,35 +762,26 @@
       }
     },
     {
-      "scope": [
-        "entity.name.tag.css"
-      ],
+      "scope": ["entity.name.tag.css"],
       "settings": {
         "fontStyle": "normal"
       }
     },
     {
-      "scope": [
-        "punctuation.definition.tag"
-      ],
+      "scope": ["punctuation.definition.tag"],
       "settings": {
         "foreground": "#83a598"
       }
     },
     {
-      "scope": [
-        "text.html entity.name.tag",
-        "text.html punctuation.tag"
-      ],
+      "scope": ["text.html entity.name.tag", "text.html punctuation.tag"],
       "settings": {
         "foreground": "#8ec07c",
         "fontStyle": "bold"
       }
     },
     {
-      "scope": [
-        "source.js variable.language"
-      ],
+      "scope": ["source.js variable.language"],
       "settings": {
         "foreground": "#fe8019"
       }

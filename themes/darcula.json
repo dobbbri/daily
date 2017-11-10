@@ -51,7 +51,7 @@
     "editorGroupHeader.noTabsBackground": "#0b1015",
     "editorGroup.border": "#0b1015",
     "panel.background": "#0b1015",
-    "panel.border": "#FFC66D",
+    "panel.border": "#5C6370",
     "panelTitle.activeForeground": "#FFC66D",
     "panelTitle.inactiveForeground": "#97a7c8ff",
     "statusBar.foreground": "#97a7c8ff",
@@ -118,18 +118,13 @@
       }
     },
     {
-      "scope": [
-        "constant.language",
-        "constant.character"
-      ],
+      "scope": ["constant.language", "constant.character"],
       "settings": {
         "foreground": "#CC7832"
       }
     },
     {
-      "scope": [
-        "constant.numeric"
-      ],
+      "scope": ["constant.numeric"],
       "settings": {
         "foreground": "#6897BB"
       }
@@ -545,9 +540,7 @@
     },
     {
       "name": "Arrow Function",
-      "scope": [
-        "storage.type.function.arrow"
-      ],
+      "scope": ["storage.type.function.arrow"],
       "settings": {
         "foreground": "#A9B7C6"
       }
@@ -574,18 +567,13 @@
     },
     {
       "name": "Variable and parameter name",
-      "scope": [
-        "meta.definition.variable.name",
-        "support.variable"
-      ],
+      "scope": ["meta.definition.variable.name", "support.variable"],
       "settings": {
         "foreground": "#A9B7C6"
       }
     },
     {
-      "scope": [
-        "variable"
-      ],
+      "scope": ["variable"],
       "settings": {
         "foreground": "#FFC66D"
       }
