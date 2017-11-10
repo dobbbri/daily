@@ -1,3 +1,6 @@
+### Version 4.1.9
+- fix panel border color
+
 ### Version 4.1.8
 - focus color refactory
 
