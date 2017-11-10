@@ -1,3 +1,6 @@
+### Version 4.1.10
+- fixes fixes panel border
+
 ### Version 4.1.9
 - fix panel border color
 
