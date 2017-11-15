@@ -1,7 +1,8 @@
 {
   "name": "daily",
-  "displayName": "Fantastic Five (Darcula, Material, Oceanic, One and Gruvbox)",
-  "description": "Dark themes with superpowers",
+  "displayName":
+    "Fantastic Five Evolution (Darcula, Material, Oceanic, One and Gruvbox)",
+  "description": "Dark themes with superpowers (new italic superpowers) ",
   "version": "4.1.10",
   "publisher": "sldobri",
   "license": "Apache-2.0",
@@ -21,13 +22,16 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
         "label": "F5 - Darcula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darcula.json"
+      },
+      {
+        "label": "F5i - Darcula - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       },
@@ -37,7 +41,17 @@
         "path": "./themes/material.json"
       },
       {
+        "label": "F5i - Material - italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material.json"
+      },
+      {
         "label": "F5 - Oceanic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic.json"
+      },
+      {
+        "label": "F5i - Oceanic - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
@@ -47,7 +61,17 @@
         "path": "./themes/one.json"
       },
       {
+        "label": "F5i - One Dark - italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one.json"
+      },
+      {
         "label": "F5 - Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox.json"
+      },
+      {
+        "label": "F5i - Gruvbox - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox.json"
       }
