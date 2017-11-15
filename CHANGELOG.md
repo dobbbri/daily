@@ -1,3 +1,6 @@
+### Version 4.1.12
+- fix themes name
+
 ### Version 4.1.11
 - add italic varaints
 

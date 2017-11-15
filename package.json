@@ -1,9 +1,8 @@
 {
   "name": "daily",
-  "displayName":
-    "Fantastic Five Evolution (Darcula, Material, Oceanic, One and Gruvbox)",
+  "displayName": "Fantastic Five Evolution (Darcula, Material, Oceanic, One and Gruvbox)",
   "description": "Dark themes with superpowers (new italic superpowers) ",
-  "version": "4.1.11",
+  "version": "4.1.12",
   "publisher": "sldobri",
   "license": "Apache-2.0",
   "icon": "logo.png",
@@ -22,7 +21,9 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
