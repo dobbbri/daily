@@ -1,6 +1,7 @@
 {
   "name": "daily",
-  "displayName": "Fantastic Five Evolution (Darcula, Material, Oceanic, One and Gruvbox)",
+  "displayName":
+    "Fantastic Five Evolution (Darcula, Material, Oceanic, One and Gruvbox)",
   "description": "Dark themes with superpowers (new italic superpowers) ",
   "version": "4.1.11",
   "publisher": "sldobri",
@@ -21,9 +22,7 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
@@ -32,9 +31,9 @@
         "path": "./themes/darcula.json"
       },
       {
-        "label": "F5i - Darcula - italic",
+        "label": "F5 - Darcula - italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/darcula.json"
+        "path": "./themes/darculaItalic.json"
       },
       {
         "label": "F5 - Material",
@@ -42,9 +41,9 @@
         "path": "./themes/material.json"
       },
       {
-        "label": "F5i - Material - italic",
+        "label": "F5 - Material - italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/material.json"
+        "path": "./themes/materialItalic.json"
       },
       {
         "label": "F5 - Oceanic",
@@ -52,9 +51,9 @@
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "F5i - Oceanic - italic",
+        "label": "F5 - Oceanic - italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/oceanic.json"
+        "path": "./themes/oceanicItalic.json"
       },
       {
         "label": "F5 - One Dark",
@@ -62,9 +61,9 @@
         "path": "./themes/one.json"
       },
       {
-        "label": "F5i - One Dark - italic",
+        "label": "F5 - One Dark - italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/one.json"
+        "path": "./themes/oneItalic.json"
       },
       {
         "label": "F5 - Gruvbox",
@@ -72,9 +71,9 @@
         "path": "./themes/gruvbox.json"
       },
       {
-        "label": "F5i - Gruvbox - italic",
+        "label": "F5 - Gruvbox - italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/gruvbox.json"
+        "path": "./themes/gruvboxItalic.json"
       }
     ]
   },
