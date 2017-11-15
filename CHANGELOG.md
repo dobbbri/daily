@@ -1,3 +1,6 @@
+### Version 4.1.11
+- add italic varaints
+
 ### Version 4.1.10
 - fixes fixes panel border
 
