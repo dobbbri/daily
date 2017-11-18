@@ -1,3 +1,6 @@
+### Version 4.2.0
+- add Slime theme, italic image, fix material colors
+
 ### Version 4.1.12
 - fix themes name
 
