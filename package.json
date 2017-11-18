@@ -1,7 +1,8 @@
 {
   "name": "daily",
-  "displayName": "Fantastic Five Evolution (Darcula, Material, Oceanic, One and Gruvbox)",
-  "description": "Dark themes with superpowers (new italic superpowers) ",
+  "displayName":
+    "Fantastic Six (Slime, Darcula, Material, Oceanic, One, Gruvbox)",
+  "description": "New dark themes with italic superpowers",
   "version": "4.1.12",
   "publisher": "sldobri",
   "license": "Apache-2.0",
@@ -21,60 +22,68 @@
   "engines": {
     "vscode": "^1.15.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "F5 - Darcula",
+        "label": "F6 - Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       },
       {
-        "label": "F5 - Darcula - italic",
+        "label": "F6 - Darcula - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/darculaItalic.json"
       },
       {
-        "label": "F5 - Material",
+        "label": "F6 - Material",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
       },
       {
-        "label": "F5 - Material - italic",
+        "label": "F6 - Material - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/materialItalic.json"
       },
       {
-        "label": "F5 - Oceanic",
+        "label": "F6 - Oceanic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "F5 - Oceanic - italic",
+        "label": "F6 - Oceanic - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanicItalic.json"
       },
       {
-        "label": "F5 - One Dark",
+        "label": "F6 - One Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one.json"
       },
       {
-        "label": "F5 - One Dark - italic",
+        "label": "F6 - One Dark - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/oneItalic.json"
       },
       {
-        "label": "F5 - Gruvbox",
+        "label": "F6 - Gruvbox",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox.json"
       },
       {
-        "label": "F5 - Gruvbox - italic",
+        "label": "F6 - Gruvbox - italic",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvboxItalic.json"
+      },
+      {
+        "label": "F6 - Slime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slime.json"
+      },
+      {
+        "label": "F6 - Slime - italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slimeItalic.json"
       }
     ]
   },

@@ -1,7 +1,8 @@
-# Fantastic Five
+# Fantastic Six
 
 
 ## Beautiful dark themes with superpowers
+## New dark themes with italic superpowers
 
 
 ### Darcula (99% like **PhpStorm** and **WebStorm** by Intellij)
@@ -20,6 +21,25 @@
 ### Gruvbox
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/gruvbox.png)
 
+### Slime
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slime.png)
+
+### Slime - italic
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slimeItalic.png)
+
+
+### New border hacks, if you like!!!
+```
+  "workbench.colorCustomizations": {
+    "titleBar.border": "#18222D",
+    "sideBar.border": "#18222D",
+    "activityBar.border": "#18222D",
+    "tab.border": "#18222D",
+    "editorGroupHeader.tabsBorder": "#18222D",
+    "panel.border": "#18222D",
+    "statusBar.border": "#18222D"
+  },
+```
 
 
 ### Background hacks, if you like!!!
