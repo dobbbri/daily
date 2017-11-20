@@ -1,3 +1,6 @@
+### Version 4.2.1
+- fix gruvbox color for js, python, Java, C, html, CSS, Bash, bash, Go
+
 ### Version 4.2.0
 - add Slime theme, italic image, fix material colors
 
