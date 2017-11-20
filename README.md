@@ -5,6 +5,12 @@
 ## New dark themes with italic superpowers
 
 
+### Slime
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slime.png)
+
+### Slime - italic
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slimeItalic.png)
+
 ### Darcula (99% like **PhpStorm** and **WebStorm** by Intellij)
 ![PhpStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-phpstorm.png)
 ![WebStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-webstorm.png)
@@ -21,23 +27,17 @@
 ### Gruvbox
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/gruvbox.png)
 
-### Slime
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slime.png)
-
-### Slime - italic
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slimeItalic.png)
-
-
 ### New border hacks, if you like!!!
 ```
+{
   "workbench.colorCustomizations": {
-    "titleBar.border": "#18222D",
-    "sideBar.border": "#18222D",
-    "activityBar.border": "#18222D",
-    "tab.border": "#18222D",
-    "editorGroupHeader.tabsBorder": "#18222D",
-    "panel.border": "#18222D",
-    "statusBar.border": "#18222D"
+    "titleBar.border": "#000",
+    "sideBar.border": "#000",
+    "activityBar.border": "#000",
+    "tab.border": "#000",
+    "editorGroupHeader.tabsBorder": "#000",
+    "panel.border": "#000",
+    "statusBar.border": "#000"
   },
 ```
 
