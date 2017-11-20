@@ -1,3 +1,6 @@
+### Version 5.0.0
+- new colors
+
 ### Version 4.2.1
 - fix gruvbox color for js, python, Java, C, html, CSS, Bash, bash, Go
 
