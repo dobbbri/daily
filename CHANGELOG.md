@@ -1,3 +1,6 @@
+### Version 5.0.1
+- add new theme Ayu
+
 ### Version 5.0.0
 - new colors
 
