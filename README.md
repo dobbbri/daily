@@ -1,35 +1,49 @@
-# Fantastic Six
-
+# Fantastic Seven
 
 ## Beautiful dark themes with superpowers
-## New dark themes with italic superpowers
 
+## Each theme has a modified version to use with the Operator Mono font / Italic
+
+### AYU
+
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/aiu.png)
+
+### AYU - Operator Mono/Italic
+
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/aiuItalic.png)
 
 ### Slime
+
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slime.png)
 
-### Slime - italic
+### Slime - Operator Mono/Italic
+
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slimeItalic.png)
 
 ### Darcula (99% like **PhpStorm** and **WebStorm** by Intellij)
+
 ![PhpStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-phpstorm.png)
 ![WebStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-webstorm.png)
 
 ### Material Bunker
+
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/Material.png)
 
 ### Oceanic Next
+
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OceanicNext.png)
 
 ### One Dark
+
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OneDark.png)
 
 ### Gruvbox
+
 ![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/gruvbox.png)
 
-### New border hacks, if you like!!!
+### I use this border hacks, if you like, use!!!
+
 ```
-{
   "workbench.colorCustomizations": {
     "titleBar.border": "#000",
     "sideBar.border": "#000",
@@ -41,10 +55,10 @@
   },
 ```
 
-
 ### Background hacks, if you like!!!
 
-#### add this your ***User Settings*** (settings.json)
+#### add this your **_User Settings_** (settings.json)
+
 ```
   "workbench.colorCustomizations": {
     "titleBar.border": "#05080A",
@@ -61,8 +75,6 @@
     "panel.border": "#05080A",
     "statusBar.border": "#05080A"
   },
-  ```
-
-
+```
 
 **Enjoy!**
