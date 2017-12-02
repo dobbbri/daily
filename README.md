@@ -6,40 +6,40 @@
 
 ### AYU
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/aiu.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/ayu.jpg)
 
 ### AYU - Operator Mono/Italic
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/aiuItalic.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/ayuItalic.jpg)
 
 ### Slime
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slime.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slime.jpg)
 
 ### Slime - Operator Mono/Italic
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slimeItalic.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/slimeItalic.jpg)
 
 ### Darcula (99% like **PhpStorm** and **WebStorm** by Intellij)
 
-![PhpStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-phpstorm.png)
-![WebStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-webstorm.png)
+![PhpStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-phpstorm.jpg)
+![WebStorm](https://raw.githubusercontent.com/sldobri/daily/master/images/darcula-webstorm.jpg)
 
 ### Material Bunker
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/Material.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/Material.jpg)
 
 ### Oceanic Next
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OceanicNext.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OceanicNext.jpg)
 
 ### One Dark
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OneDark.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/OneDark.jpg)
 
 ### Gruvbox
 
-![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/gruvbox.png)
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/gruvbox.jpg)
 
 ### I use this border hacks, if you like, use!!!
 
