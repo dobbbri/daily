@@ -1,8 +1,16 @@
-# Fantastic Seven
+# Fantastic (Ayu, Darcula, Gruvbox, Material, Monokai, Slime, Oceanic, One)
 
-## Beautiful dark themes with superpowers
+## Beautiful dark themes with Operator Mono font/Italic superpowers
 
 ## Each theme has a modified version to use with the Operator Mono font / Italic
+
+### Monokai
+
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/monokai.jpg)
+
+### Monokai - Operator Mono/Italic
+
+![Black](https://raw.githubusercontent.com/sldobri/daily/master/images/monokaiItalic.jpg)
 
 ### AYU
 

@@ -1,9 +1,9 @@
 {
   "name": "daily",
   "displayName":
-    "Fantastic Seven (Ayu, Slime, Darcula, Material, Oceanic, One, Gruvbox)",
+    "Fantastic (Ayu, Darcula, Gruvbox, Material, Monokai, Slime, Oceanic, One)",
   "description":
-    "Each theme has a modified version to use with the Operator Mono font",
+    "Each theme has a modified version to use with the Operator Mono font/Italic",
   "version": "5.0.2",
   "publisher": "sldobri",
   "license": "Apache-2.0",
@@ -27,74 +27,84 @@
   "contributes": {
     "themes": [
       {
-        "label": "F7 - Darcula",
+        "label": "ƒ - Darcula",
         "uiTheme": "vs-dark",
         "path": "./themes/darcula.json"
       },
       {
-        "label": "F7 - Darcula - Operator Mono/Italic",
+        "label": "ƒ - Darcula - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/darculaItalic.json"
       },
       {
-        "label": "F7 - Material",
+        "label": "ƒ - Material",
         "uiTheme": "vs-dark",
         "path": "./themes/material.json"
       },
       {
-        "label": "F7 - Material - Operator Mono/Italic",
+        "label": "ƒ - Material - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/materialItalic.json"
       },
       {
-        "label": "F7 - Oceanic",
+        "label": "ƒ - Oceanic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic.json"
       },
       {
-        "label": "F7 - Oceanic - Operator Mono/Italic",
+        "label": "ƒ - Oceanic - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanicItalic.json"
       },
       {
-        "label": "F7 - One Dark",
+        "label": "ƒ - One Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/one.json"
       },
       {
-        "label": "F7 - One Dark - Operator Mono/Italic",
+        "label": "ƒ - One Dark - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/oneItalic.json"
       },
       {
-        "label": "F7 - Gruvbox",
+        "label": "ƒ - Gruvbox",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvbox.json"
       },
       {
-        "label": "F7 - Gruvbox - Operator Mono/Italic",
+        "label": "ƒ - Gruvbox - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/gruvboxItalic.json"
       },
       {
-        "label": "F7 - Slime",
+        "label": "ƒ - Slime",
         "uiTheme": "vs-dark",
         "path": "./themes/slime.json"
       },
       {
-        "label": "F7 - Slime - Operator Mono/Italic",
+        "label": "ƒ - Slime - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/slimeItalic.json"
       },
       {
-        "label": "F7 - AYU",
+        "label": "ƒ - AYU",
         "uiTheme": "vs-dark",
         "path": "./themes/ayu.json"
       },
       {
-        "label": "F7 - AYU - Operator Mono/Italic",
+        "label": "ƒ - AYU - Operator Mono/Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/ayuItalic.json"
+      },
+      {
+        "label": "ƒ - Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai.json"
+      },
+      {
+        "label": "ƒ - Monokai - Operator Mono/Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokaiItalic.json"
       }
     ]
   },
