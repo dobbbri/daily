@@ -1,3 +1,6 @@
+### Version 5.0.4
+- fix css value color
+
 ### Version 5.0.3
 - add monokai theme
 - add images monokai
