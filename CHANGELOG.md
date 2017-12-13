@@ -1,3 +1,6 @@
+### Version 5.0.5
+- color fixes
+
 ### Version 5.0.4
 - fix css value color
 
