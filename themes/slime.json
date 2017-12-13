@@ -560,7 +560,6 @@
         "foreground": "#AB6767"
       }
     },
-
     {
       "name": "SCSS Attribute Value",
       "scope": "string.quoted.double.attribute-value.scss",

@@ -88,21 +88,14 @@
     {
       "settings": {
         "foreground": "#f8f8f2ff",
-        "background": "#272822ff"
-      }
-    },
-    {
-      "scope": ["meta.embedded", "source.groovy.embedded"],
-      "settings": {
-        "background": "#272822",
-        "foreground": "#F8F8F2"
+        "background": "#0b1015"
       }
     },
     {
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#75715E"
+        "foreground": "#7E8E91"
       }
     },
     {
@@ -116,17 +109,10 @@
       "name": "Template Definition",
       "scope": [
         "punctuation.definition.template-expression",
-        "punctuation.section.embedded"
+        "punctuation.section.embedded.coffee"
       ],
       "settings": {
         "foreground": "#F92672"
-      }
-    },
-    {
-      "name": "Reset JavaScript string interpolation expression",
-      "scope": ["meta.template.expression"],
-      "settings": {
-        "foreground": "#F8F8F2"
       }
     },
     {
@@ -154,8 +140,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#F8F8F2"
+        "fontStyle": ""
       }
     },
     {
@@ -242,7 +227,7 @@
       "scope": "support.constant",
       "settings": {
         "fontStyle": "",
-        "foreground": "#F8F8F2"
+        "foreground": "#66D9EF"
       }
     },
     {
