@@ -1,3 +1,6 @@
+### Version 5.0.6
+- fix ayu purple color
+
 ### Version 5.0.5
 - color fixes
 
