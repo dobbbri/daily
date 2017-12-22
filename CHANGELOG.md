@@ -1,21 +1,27 @@
 ### Version 5.0.7
-- add vivid colors to Ayu
+
+* add vivid colors to Ayu
 
 ### Version 5.0.6
-- fix ayu purple color
+
+* fix ayu purple color
 
 ### Version 5.0.5
-- color fixes
+
+* color fixes
 
 ### Version 5.0.4
-- fix css value color
+
+* fix css value color
 
 ### Version 5.0.3
-- add monokai theme
-- add images monokai
+
+* add monokai theme
+* add images monokai
 
 ### Version 5.0.2
-- new images
+
+* new images
 
 ### Version 5.0.1
 
