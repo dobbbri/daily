@@ -1,3 +1,6 @@
+### Version 5.0.7
+- add vivid colors to Ayu
+
 ### Version 5.0.6
 - fix ayu purple color
 
