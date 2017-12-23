@@ -1,3 +1,7 @@
+### Version 5.0.8
+- bump (origin/master, origin/HEAD)
+- add git decoration colors
+
 ### Version 5.0.7
 
 * add vivid colors to Ayu
