@@ -76,13 +76,18 @@
     "notification.foreground": "#eeeeee",
     "notification.buttonBackground": "#5C6370",
     "notification.buttonForeground": "#000000",
-    "notification.buttonHoverBackground": "#56B6C2",
-    "notification.errorBackground": "#E06C75",
-    "notification.errorForeground": "#000000",
-    "notification.infoBackground": "#98C379",
+    "notification.buttonHoverBackground": "#FD971F",
+    "notification.errorBackground": "#FF3333",
+    "notification.errorForeground": "#eeeeee",
+    "notification.infoBackground": "#00B7C9",
     "notification.infoForeground": "#eeeeee",
-    "notification.warningBackground": "#E5C07B",
-    "notification.warningForeground": "#000000"
+    "notification.warningBackground": "#f7f308",
+    "notification.warningForeground": "#000000",
+    "gitDecoration.modifiedResourceForeground": "#f7f308",
+    "gitDecoration.deletedResourceForeground": "#FF3333",
+    "gitDecoration.untrackedResourceForeground": "#11eb73",
+    "gitDecoration.ignoredResourceForeground": "#00B7C9",
+    "gitDecoration.conflictingResourceForeground": "#9107c7"
   },
   "tokenColors": [
     {
