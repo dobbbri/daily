@@ -1,94 +1,7 @@
 {
   "type": "dark",
-  "colors": {
-    "focusBorder": "#97a7c8ff",
-    "widget.shadow": "#00000026",
-    "input.background": "#0b1015",
-    "input.border": "#D27CED",
-    "list.activeSelectionBackground": "#0b1015",
-    "list.activeSelectionForeground": "#D27CED",
-    "list.inactiveSelectionBackground": "#0b1015",
-    "list.inactiveSelectionForeground": "#D27CED",
-    "list.hoverBackground": "#18222Dff",
-    "list.highlightForeground": "#D27CED",
-    "list.focusBackground": "#18222Dff",
-    "list.focusForeground": "#D27CED",
-    "button.hoverBackground": "#D27CED",
-    "scrollbar.shadow": "#00000026",
-    "scrollbarSlider.background": "#18222Dff",
-    "scrollbarSlider.hoverBackground": "#22303Eff",
-    "editorOverviewRuler.border": "#0b1015",
-    "editor.background": "#0b1015",
-    "editor.foreground": "#c7d0d9",
-    "editorWidget.background": "#0b1015",
-    "editor.selectionBackground": "#18222Dff",
-    "editor.findMatchBackground": "#18222Dff",
-    "editor.lineHighlightBorder": "#14344B",
-    "editor.lineHighlightBackground": "#14344B",
-    "editorSuggestWidget.background": "#0b1015",
-    "editorSuggestWidget.selectedBackground": "#18222Dff",
-    "editorHoverWidget.background": "#0b1015",
-    "editorLineNumber.foreground": "#3A3E46",
-    "editorBracketMatch.border": "#97a7c8ff",
-    "editorGutter.modifiedBackground": "#FDC114",
-    "editorGutter.addedBackground": "#71b9a1",
-    "editorGutter.deletedBackground": "#e06060",
-    "editorCursor.foreground": "#D27CED",
-    "editorWhitespace.foreground": "#18222Dff",
-    "editorIndentGuide.background": "#18222Dff",
-    "editorRuler.foreground": "#18222Dff",
-    "tab.activeBackground": "#0b1015",
-    "tab.inactiveBackground": "#0b1015",
-    "tab.border": "#0b1015",
-    "tab.activeForeground": "#D27CED",
-    "tab.inactiveForeground": "#97a7c8ff",
-    "editorGroup.background": "#0b1015",
-    "tab.unfocusedActiveBorder": "#97a7c8ff",
-    "tab.activeBorder": "#D27CED",
-    "editorGroupHeader.tabsBackground": "#0b1015",
-    "editorGroupHeader.noTabsBackground": "#0b1015",
-    "editorGroup.border": "#0b1015",
-    "panel.background": "#0b1015",
-    "panel.border": "#18222Dff",
-    "panelTitle.activeForeground": "#D27CED",
-    "panelTitle.inactiveForeground": "#97a7c8ff",
-    "statusBar.foreground": "#97a7c8ff",
-    "statusBar.background": "#0b1015",
-    "statusBar.debuggingBackground": "#0b1015",
-    "activityBar.background": "#0b1015",
-    "activityBar.foreground": "#97a7c8ff",
-    "activityBarBadge.background": "#D27CED",
-    "activityBarBadge.foreground": "#000000",
-    "sideBar.background": "#0b1015",
-    "sideBarSectionHeader.background": "#0b1015",
-    "titleBar.inactiveForeground": "#0b1015",
-    "titleBar.activeBackground": "#0b1015",
-    "debugToolBar.background": "#0b1015",
-    "dropdown.background": "#0b1015",
-    "dropdown.border": "#18222Dff",
-    "peekView.border": "#97a7c8ff",
-    "peekViewEditor.background": "#0b1015",
-    "peekViewResult.background": "#0b1015",
-    "peekViewResult.selectionBackground": "#0b1015",
-    "peekViewTitle.background": "#0b1015",
-    "peekViewTitleLabel.foreground": "#D27CED",
-    "notification.background": "#18222D",
-    "notification.foreground": "#eeeeee",
-    "notification.buttonBackground": "#5C6370",
-    "notification.buttonForeground": "#000000",
-    "notification.buttonHoverBackground": "#FD971F",
-    "notification.errorBackground": "#FF3333",
-    "notification.errorForeground": "#eeeeee",
-    "notification.infoBackground": "#00B7C9",
-    "notification.infoForeground": "#eeeeee",
-    "notification.warningBackground": "#f7f308",
-    "notification.warningForeground": "#000000",
-    "gitDecoration.modifiedResourceForeground": "#f7f308",
-    "gitDecoration.deletedResourceForeground": "#FF3333",
-    "gitDecoration.untrackedResourceForeground": "#11eb73",
-    "gitDecoration.ignoredResourceForeground": "#00B7C9",
-    "gitDecoration.conflictingResourceForeground": "#9107c7"
-  },
+  "name": "ayu",
+  "include": "./_ui.json",
   "tokenColors": [
     {
       "settings": {
@@ -105,16 +18,14 @@
     },
     {
       "name": "Variable",
-      "scope":
-        "variable, variable.other.object.js.jsx, support.variable.property.dom",
+      "scope": "variable, variable.other.object.js.jsx, support.variable.property.dom",
       "settings": {
         "foreground": "#D27CED"
       }
     },
     {
       "name": "Object Attribute",
-      "scope":
-        "variable.other.property.js.jsx, support.variable.property.dom.js.jsx",
+      "scope": "variable.other.property.js.jsx, support.variable.property.dom.js.jsx",
       "settings": {
         "foreground": "#95e6cb"
       }
@@ -128,8 +39,7 @@
     },
     {
       "name": "Operator, Misc",
-      "scope":
-        "constant.other.color, meta.tag, punctuation.separator.inheritance.php, punctuation.section.embedded, punctuation.definition.block.js, keyword.other.substitution,",
+      "scope": "constant.other.color, meta.tag, punctuation.separator.inheritance.php, punctuation.section.embedded, punctuation.definition.block.js, keyword.other.substitution,",
       "settings": {
         "foreground": "#00B7C9"
       }
@@ -150,32 +60,28 @@
     },
     {
       "name": "Function, Special Method, Block Level",
-      "scope":
-        "entity.name.function, keyword.other.special-method, meta.block-level, support.function.console.js, support.function.dom.js, support.function.js.jsx",
+      "scope": "entity.name.function, keyword.other.special-method, meta.block-level, support.function.console.js, support.function.dom.js, support.function.js.jsx",
       "settings": {
         "foreground": "#FDC114"
       }
     },
     {
       "name": "Other Variable, String Link",
-      "scope":
-        "support.other.variable, string.other.link, support.variable.dom",
+      "scope": "support.other.variable, string.other.link, support.variable.dom",
       "settings": {
         "foreground": "#FC6664"
       }
     },
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-      "scope":
-        "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
+      "scope": "constant.numeric, constant.language, support.constant, constant.character, variable.parameter, keyword.other.unit",
       "settings": {
         "foreground": "#D27CED"
       }
     },
     {
       "name": "String, Symbols, Inherited Class, Markup Heading",
-      "scope":
-        "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+      "scope": "string, keyword.other.template, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "normal",
         "foreground": "#9ED54E"
@@ -190,16 +96,14 @@
     },
     {
       "name": "Class, Support",
-      "scope":
-        "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
+      "scope": "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "Sub-methods",
-      "scope":
-        "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
+      "scope": "entity.name.module.js, variable.import.parameter.js, variable.other.class.js",
       "settings": {
         "foreground": "#00B7C9"
       }
@@ -229,8 +133,7 @@
     },
     {
       "name": "Html punctuations tags",
-      "scope":
-        "punctuation.definition.tag.end, punctuation.definition.tag.begin, punctuation.definition.tag",
+      "scope": "punctuation.definition.tag.end, punctuation.definition.tag.begin, punctuation.definition.tag",
       "settings": {
         "foreground": "#F4F7FA"
       }
@@ -294,8 +197,7 @@
     },
     {
       "name": "Decorators",
-      "scope":
-        "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
+      "scope": "tag.decorator.js entity.name.tag.js, tag.decorator.js punctuation.definition.tag.js",
       "settings": {
         "fontStyle": "italic",
         "foreground": "#FFC44C"
@@ -303,8 +205,7 @@
     },
     {
       "name": "ES7 Bind Operator",
-      "scope":
-        "source.js constant.other.object.key.js string.unquoted.label.js",
+      "scope": "source.js constant.other.object.key.js string.unquoted.label.js",
       "settings": {
         "fontStyle": "italic",
         "foreground": "#00B7C9"
@@ -319,8 +220,7 @@
     },
     {
       "name": "meta.method.js",
-      "scope":
-        "meta.class-method.js entity.name.function.js, variable.function.constructor",
+      "scope": "meta.class-method.js entity.name.function.js, variable.function.constructor",
       "settings": {
         "foreground": "#FFC44C"
       }
@@ -403,8 +303,7 @@
     },
     {
       "name": "Markdown - Heading",
-      "scope":
-        "markdown.heading, markup.heading | markup.heading entity.name, markup.heading.markdown punctuation.definition.heading.markdown",
+      "scope": "markdown.heading, markup.heading | markup.heading entity.name, markup.heading.markdown punctuation.definition.heading.markdown",
       "settings": {
         "foreground": "#9ED54E"
       }
@@ -435,8 +334,7 @@
     },
     {
       "name": "Markdown - Fenced Bode Block",
-      "scope":
-        "punctuation.definition.fenced.markdown, variable.language.fenced.markdown",
+      "scope": "punctuation.definition.fenced.markdown, variable.language.fenced.markdown",
       "settings": {
         "background": "#ffffff10",
         "foreground": "#5C6773"
@@ -461,72 +359,63 @@
     },
     {
       "name": "JSON Key - Level 8",
-      "scope":
-        "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 7",
-      "scope":
-        "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 6",
-      "scope":
-        "source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 5",
-      "scope":
-        "source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 4",
-      "scope":
-        "source.json meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 3",
-      "scope":
-        "source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 2",
-      "scope":
-        "source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta meta meta.structure.dictionary.json string.quoted.double.json - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 1",
-      "scope":
-        "source.json meta meta.structure.dictionary.json string.quoted.double.json - meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta.structure.dictionary.json punctuation.definition.string - meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta meta.structure.dictionary.json string.quoted.double.json - meta meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta meta.structure.dictionary.json punctuation.definition.string - meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
     },
     {
       "name": "JSON Key - Level 0",
-      "scope":
-        "source.json meta.structure.dictionary.json string.quoted.double.json - meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json punctuation.definition.string - meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
+      "scope": "source.json meta.structure.dictionary.json string.quoted.double.json - meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json punctuation.definition.string - meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string",
       "settings": {
         "foreground": "#00B7C9"
       }
