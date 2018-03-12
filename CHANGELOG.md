@@ -1,3 +1,8 @@
+### Version 6.0.0
+- add vivid colors (origin/master, origin/HEAD)
+- new minimalist ui
+- add new layout for fast theme changes
+
 ### Version 5.0.8
 - bump (origin/master, origin/HEAD)
 - add git decoration colors
