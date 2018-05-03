@@ -36,6 +36,7 @@
     "editorCursor.foreground": "#ffffff",
     "editorWhitespace.foreground": "#18222D",
     "editorIndentGuide.background": "#18222D",
+    "editorIndentGuide.activeBackground": "#18222D",
     "editorRuler.foreground": "#18222D",
     "editorGroupHeader.tabsBackground": "#0b1015",
     "editorGroupHeader.noTabsBackground": "#0b1015",
