@@ -1,3 +1,6 @@
+### Version 6.0.1
+- add editorIndentGuide.activeBackground
+
 ### Version 6.0.0
 - add vivid colors (origin/master, origin/HEAD)
 - new minimalist ui
