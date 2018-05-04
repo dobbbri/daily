@@ -1,3 +1,6 @@
+### Version 6.0.2
+- fix editorIndentGuide.activeBackground color
+
 ### Version 6.0.1
 - add editorIndentGuide.activeBackground
 
