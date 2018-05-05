@@ -1,3 +1,6 @@
+### Version 6.0.3
+- fix material high contrast colors
+
 ### Version 6.0.2
 - fix editorIndentGuide.activeBackground color
 
